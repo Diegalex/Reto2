@@ -20,7 +20,7 @@ public class GuardarLibros {
 		biblioteca.add(new Libro(419260445,"El pozo de la Ascensión","Nova",784,"Brandon Sanderson",1000000));
 		biblioteca.add(new Libro(419260446,"El heroe de las eras","Nova",760,"Brandon Sanderson",1000000));
 		
-		//Alias para que en el XML aparezca la etiqueta que quiro poner (campo 1) en lugar de en nombre de la clase(Campo 2)
+		//Alias para que en el XML aparezca la etiqueta que quiero poner (campo 1) en lugar de el nombre de la clase(Campo 2)
 		xs.alias("libro", Libro.class);
 		xs.alias("biblioteca", List.class);
 		//Este caso al ser un atributo se pone el nombre que le quieres poner, la clase a la que pertenece y que atributo es
