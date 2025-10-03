@@ -1,0 +1,26 @@
+<libreria>
+  <libro isbn="419260447">
+    <titulo paginas="180">Death Note Tomo 2</titulo>
+    <editorial>Death Note Tomo 2</editorial>
+    <autor>Tsugumi Ohba</autor>
+    <copias>185</copias>
+  </libro>
+  <libro isbn="419260448">
+    <titulo paginas="380">Neon Genesis Evangelion Tomo 2</titulo>
+    <editorial>Neon Genesis Evangelion Tomo 2</editorial>
+    <autor>Yoshiyuki Sadamoto</autor>
+    <copias>22</copias>
+  </libro>
+  <libro isbn="419260449">
+    <titulo paginas="696">Berserk Deluxe Volume 1</titulo>
+    <editorial>Berserk Deluxe Volume 1</editorial>
+    <autor>Kentaro Miura</autor>
+    <copias>352</copias>
+  </libro>
+  <libro isbn="419260449">
+    <titulo paginas="196">Bloom Into You Volumen 1</titulo>
+    <editorial>Bloom Into You Volumen 1</editorial>
+    <autor>Nakatani Nio</autor>
+    <copias>12</copias>
+  </libro>
+</libreria>
