@@ -1,0 +1,17 @@
+{"listaPersonas": {
+  "persona": {
+    "nombre": "Romeo",
+    "apellido": "Santos",
+    "telefono": "6531351220"
+  },
+  "persona": {
+    "nombre": "Chayanne",
+    "apellido": "Torero",
+    "telefono": "666655243"
+  },
+  "persona": {
+    "nombre": "Guts",
+    "apellido": "Berserk",
+    "telefono": "634326279"
+  }
+}}

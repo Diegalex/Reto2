@@ -1,0 +1,26 @@
+<biblioteca>
+  <libro>
+    <codigo>419260444</codigo>
+    <titulo>Mistborn</titulo>
+    <editorial>Nova</editorial>
+    <paginas>672</paginas>
+    <autor>Brandon Sanderson</autor>
+    <copias>1000000</copias>
+  </libro>
+  <libro>
+    <codigo>419260445</codigo>
+    <titulo>El pozo de la Ascensión</titulo>
+    <editorial>Nova</editorial>
+    <paginas>784</paginas>
+    <autor>Brandon Sanderson</autor>
+    <copias>1000000</copias>
+  </libro>
+  <libro>
+    <codigo>419260446</codigo>
+    <titulo>El heroe de las eras</titulo>
+    <editorial>Nova</editorial>
+    <paginas>760</paginas>
+    <autor>Brandon Sanderson</autor>
+    <copias>1000000</copias>
+  </libro>
+</biblioteca>
